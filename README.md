@@ -112,10 +112,3 @@ and **KPMG Advisors**: Kathi Ray, Sharad Nagariya, Ryan Tuggle, Nainika Narayana
 **Bettina George**  
 📍 UNC Chapel Hill | Computer & Information Science  
 🔗 [LinkedIn](https://www.linkedin.com/in/bettinageorge) • [GitHub](https://github.com/bettinageorge)
-
-//put your contacts here
-
----
-
-> “Balancing innovation with sustainability — because the future of AI should be both intelligent *and* responsible.”
-
